@@ -1,0 +1,266 @@
+﻿ProspectID;BlockID;ProspectDescription;ProsepectOperator;ProspectAbbr;ProspectName;ProsepectCode;ProspectClass
+P1;CL39;Agate is a dual culmination anticlinal drape over a northeast-southwest trending basement horst located in Block 01 within the Mekong Basin. This location is approximately 196 km. East of Vung Tau and 56 km. Northeast of Ruby-3.;PETRONAS;01-E;Agate;BC_PNAS01_02_694;Prospect
+P10;CL39;The Ruby prospect is located in the southwestern area of Block 01, located 155 km east of the Vung Tau.;PETRONAS;01-B;Ruby;BC_PNAS01_02_004;Field
+P100;CL10;;PHU_QUY_JOC;;Gau Den-South;BC_PHUQUY.POC15.1/05_002;Prospect
+P101;CL5;;PHU_QUY_JOC;;Gau Trang;BC_PHUQUY.POC15.1/05_002;Prospect
+P102;CL10;;PHU_QUY_JOC;;Gau Xam;BC_PHUQUY.POC15.1/05_002;Prospect
+P103;CL10;;PHU_QUY_JOC;;Lead 1;BC_PHUQUY.POC15.1/05_002;Lead
+P104;CL10;;PHU_QUY_JOC;;Lead 2;BC_PHUQUY.POC15.1/05_002;Lead
+P105;CL10;;PHU_QUY_JOC;;Lead 3;BC_PHUQUY.POC15.1/05_002;Lead
+P106;CL10;;PHU_QUY_JOC;;Lead 4;BC_PHUQUY.POC15.1/05_002;Lead
+P107;CL12;;JVPC;;Duong Dong;;
+P108;CL12;The Gio Dong Prospect is located on the southern end of a structural nose extending from the northern Block 15-1 into the main depression of the Mekong Basin between two NE- SW basement highs of the Rang Dong-Phuong Dong trend and Vung Dong-S Lead trend. The Gio Dong Structure is a N-S trending narrow anticline with a series of N-S trending faults.;JVPC;;Gio Dong;BC_JVPC15-2_411.1/ BC_JVPC15-2_648;Prospect
+P109;CL12;The Phuong Dong Prospect is located to the northeast of the Rang Dong Oil Field on the same structural trend lying in the northeastern margin of the Mekong Basin. The structural trend is a series of basement highs which extends from the Bach Ho Oil Field northeastward through JVPC area to the Jade Prospect in the Block 1.;JVPC;;Phuong Dong;BC_JVPC15-2_411.1;Field
+P11;CL39;Spinel is a northeast-southwest trening aniclinal drap over a basement horst located in Block 01. This location is approximately 180 km east of Vung Tau,  35 km northeast of Ruby-1.;PETRONAS;EE;Spinel;BC_PNAS01_02_401;Prospect
+P110;CL12;The Rang Dong Field is located on the eastern flank of the Mekong Basin on the NE-SW trending structural basement high. which extends from the Bach Ho Oil Field to the southwest and to Phuong Dong and Jade Prospects to the northeast.;JVPC;15-C (Deminex);Rang Dong;BC_JVPC15-2_411.1;Field
+P111;CL12;The Vung Dong Prospect is a NE-SW elongated narrow basement high on the northwestern side of the Mekong Basin. The Prospect faces the major depression of the basin to the southeast which is the most important area for source rock maturation and supplied oil and gas to surrounding fields such as the Rang Dong and Bach Ho.;JVPC;15-A;Vung Dong;BC_JVPC15-2_411.1/ BC_JVPC15-2_648;Prospect
+P112;CL12;Cấu tạo B dạng cấu trúc nếp uốn khép kín 3 chiều, 1 chiều khép vào đứt gãy hướng Bắc ĐB - Nam TN ở các tầng Móng, E, C, D.;PVEP;;B;BC_JVPC15-2_648;Structure
+P113;CL12;Triển vọng S là cấu tạo dạng móng nhô cao, khép kín bốn chiều, cùng nằm trên dải nâng hướng ĐB- TN, nằm về phía Đông Bắc của cấu tạo Vừng Đông.;PVEP;;S;BC_JVPC15-2_648;Prospect
+P114;CL12;Triển vọng P được hình thành dạng một nếp lồi giống cấu tạo Gió Đông.;PVEP;;P;BC_JVPC15-2_648;Prospect
+P115;CL13;The Hai Su Bac structure was formed by the roll-over of the Lower Miocene into the late collapse feature which developed above the Gio Dong anticline as discussed above.;THANG_LONG_JOC;;Hai Su Bac;BC_T.Long15-2/01_197;Prospect
+P116;CL13;;THANG_LONG_JOC;;Hai Su Den;BC_T.Long15-2/01_199;Field
+P117;CL13;The Hai Su Nau prospect is located in the north-eastern part of Block 15-2/01 within the Cuu Long Basin. The Block is covered by several vintages of 2D and 3D seismic data which are summarized above. The seismic data used for the Hai Su Nau prospect evaiuation is the 2005 TLJOC 3D seismic survey.;THANG_LONG_JOC;;Hai Su Nau;BC_T.Long15-2/01_211;Prospect
+P118;CL13;;THANG_LONG_JOC;Rong Tim;Hai Su Trang;BC_T.LONG15-2/01_156;Field
+P119;CL13;;THANG_LONG_JOC;;Hai Su Vang;BC_T.Long15-2/01_169;Prospect
+P12;CL39;Topaz is a two culmination anticlinal drape over a northeast-southwest trending basement horst located in Block 01. This location is approximately 175 km. East of Vung Tau and 15 km. Northeast of Ruby-I.;PETRONAS;01-R;Topaz;BC_PNAS01_02_688;Field
+P120;CL18;"Cấu tạo nằm ở khu vực Đông Bắc của khu vực trung tâm lô 16-2, bao gồm các đối tượng: Tầng móng, tập D, C; Cách Vũng Tàu 150km về phía Tây - Nam.";GECO;;Ba Den;BC_VPI_038/ BC_CONOCO16_2_027;Prospect
+P121;CL44;Cách Vũng Tàu 80km về phía Tây - Nam, nằm vùng phía Tây bể Cửu Long.;PVN;;Ba Vi;BC_VPI_038;Prospect
+P122;CL18;Cách Vũng Tàu 100km về phía Tây - Nam.;GECO;;Tam Dao;BC_VPI_038;Prospect
+P123;CL16;The prospect C is located at the central part of bock 16.1. In prospect C, primary targets are Pre-Tertiary fractured basement and Early Miocene sandstones, secondary targets are Oligocene sandstones like in the Bach Ho, Rong and Rang Dong fields.;HOANG_LONG_JOC;Prospect (16-1) C;Ngua O;BC_HLONG16.1_097;Prospect
+P124;CL16;Te Giac Cam structure is classified as a multi-pay prospect with objectives within Upper Oligocene and Lower Miocene sandstones. It is located in the central southern part of the Block 16.1.;HOANG_LONG_JOC;Prospect (16-1) S;Te Giac Cam;BC_HLONG16.1_214;Prospect
+P125;CL16;;HOANG_LONG_JOC;;16-1-D;BC_HLONG16.1_097;Prospect
+P126;CL16;The Te Giac Den (TGD) prospect is located in the southeastern portion of Block 16.1. The structure is traversed by E-W, NW-SE and NE-SE faults, which will probably lead to baffiing rather than full-scale fault compartmentalisation.;HOANG_LONG_JOC;Prospect (16-1) E;Te Giac Den;"BCA014535; BC_HLONG16.1_129";Prospect
+P127;CL16;The Te Giac Hong (TGH) prospect is located in the southeastern portion of the Block 16.1. This prospect is separated from TGV prospect  by a major E-W wrench fault zone.;HOANG_LONG_JOC;Prospect (16-1) L North;Te Giac Hong;"BC_HLONG16.1_198; BC_HLONG16.1_199";Prospect
+P128;CL16;Te Giac Bac prospect is located in the southeastern part of the Block 16.1. The prospect targets multi-pay objectives within the Upper Oligocene Middle Tra Tan formation sandstones (D sequence) and Lower Oligocene Lower Tra Tan formation sandstones (E sequence) and PreTertiary Granite Basement.;HOANG_LONG_JOC;Prospect (16-1) E-South;Te Giac Bac;BC_HLONG16.1_238;Prospect
+P129;CL16;O and Z structures (Te Giac Lam) are classified as a multi-pay prospect, with objectives within Lower Miocene, Upper Oligocene and Lower Oligocene sandstones.;HOANG_LONG_JOC;Prospect (16-1) O & Z;Te Giac Lam;"BCA014769; BCA014685; BCA014480";Prospect
+P13;CL39;;PETRONAS;;Topaz North;BC_PNAS01_02_718;Prospect
+P130;CL16;Te Giac Trang prospect is located in the northeastern part of Block 16.1. The closest wells to the prospect within Block 16.1 are the 16.1-NO-1X and 16-BV-1X wells, approximately 40 km to the southwest. The 09-1-BH-1 OX well at the northern end of Bach Ho Field lies 20 km to the southeast, and the 15-A-1X well (Vung Dong structure) is 15 km north of the location.;HOANG_LONG_JOC;Prospect (16-1) H;Te Giac Trang;BC_HLONG16.1_102;Field
+P131;CL16;The Te Giac Yang (TGV) prospect is located in the southeastern portion of Block 16.1. The target Tertiary clastic sequences are subdivided by E-W and NW-SE faults into a series of fault blocks.;HOANG_LONG_JOC;Prospect (16-1) L;Te Giac Vang;"BC_HLONG16.1_198; BC_HLONG16.1_129";Prospect
+P132;CL16;Te Giac Xam structure was classified as a multiple-pay prospect with objectives in Upper Oligocene Upper and Middle Tra Tan formation sandstones (C and D sequences), Lower Miocene, Upper and Lower Bach sandstones (B1.1 and BI.2 sequences). It is located in the central eastern part of the Block 16.1.;HOANG_LONG_JOC;Prospect (16-1) K-West;Te Giac Xam;BC_HLONG16.1_211;Prospect
+P133;CL16;Voi Nau structure is classified as a multi-pay prospect with objectives within Lower Miocene, Upper-Lower Oligocene sandstones and Pre-Tertiary Granite Basement. It is located in the central northern part of the Block 16.1.;HOANG_LONG_JOC;Prospect (16-1) AA;Voi Nau;"BC_HLONG16.1_217; BCA014480";Prospect
+P134;CL16;The prospect C is located at the central part of bock 16.1. In prospect C. primary targets are Pre-Tertiary fractured basement and Early Miocene sandstones, secondary targets are Oligocene sandstones like in the Bach Ho, Rong and Rang Dong fields.;HOANG_LONG_JOC;Prospect (16-1) A;Voi Trang;BC_HLONG16.1_021;Prospect
+P135;CL16;Prospect B is located in the central part of Bock 16.1 and classified as a multi-pay prospect with objectives within the Pre-Tertiary fractured granite basement, Upper Oligocene Upper and Middle Tra Tan formation (C and D sequences) sandstones and Lower Miocene Bach Ho formation (BI sequence) sandstones.;HOANG_LONG_JOC;Prospect (16-1) B;Voi Vang;BC_HLONG16.1_097;Prospect
+P136;CL16;;HOANG_LONG_JOC;;16-1-B1;BC_HLONG16.1_097;Prospect
+P137;CL16;;HOANG_LONG_JOC;;16-1-B2;BC_HLONG16.1_097;Prospect
+P138;CL18;;CONOCO;;Bao Gam;BC_CONOCO16_2_027;Prospect
+P139;CL18;The Bao Vang Prospect consists of a Pre-Tertiary Basement 'buried-hill' type structure, a pinchout Eocene/Early Oligocene (E sequence), drape-over of Late Oligocene (0 & C sequences) and Early Miocene (BI sequence) closures.;CONOCO;;Bao Vang;BC_CONOCO16_2_027;Prospect
+P14;CL39;;PETRONAS;01-CC;Turquoise;BC_PNAS01_02_718;Prospect
+P140;CL18;Cấu tạo Lang Biang nằm ở phía Bắc khu vực trung tâm. Cấu tạo Lang Biang chua co giếng khoan thăm dò, các đối tượng triển vọng dầu khí là: móng, tập F, E, D, C và BI.;PVEP;;Lang Biang;BC_CONOCO16_2_027;Prospect
+P141;;;;;16-2-A;BC_CONOCO16_2_027;
+P142;;;;;16-2-B;BC_CONOCO16_2_027;
+P143;CL18;Doi Nau (DN) prospect locates in the northeastern part of the Block 16-2, in the north of new 3D area. DN has closures on three tops sequences BI, ILM1, ILM2, ILM3, C and D.;PVEP_PHU_QUY;;Doi Nau;BCA011947/ BCA011306;Prospect
+P144;CL18;Ha Ma Xam (HMX) Prospect locates in the center part of the Block 16-2 and is a geometrical northeast high of Ha Ma trend. Over HMX Prospect, several structural closures were found in maps of top BI, BI.1 C, D, E1, E2 and basement.;PVEP;;Ha Ma Xam;BCA011929;Discovery
+P145;CL18;;PVEP_POC;;Ha Ma Trang;BCA011306;Prospect
+P146;CL18;;PVEP_POC;;Ha Ma Den;BCA011306;Prospect
+P147;CL18;;PVEP_POC;;Ha Ma Nau;BCA011306;Prospect
+P148;CL18;;PVEP_POC;;Ha Ma Vang;BCA011306;Prospect
+P149;CL18;;PVEP_POC;;Ha Ma Xam West;BCA011306;Prospect
+P15;CL39;Zircon is a domal anticline associated with igneous drape over a intrusives and located in Block 01. This location is approximately 160 km. East of Vung Tau and 12 km northeast of Ruby-I.;PETRONAS;01-DD;Zircon;BC_PNAS01_02_396;Prospect
+P150;CL18;;PVEP_POC;;Ha Ma Xam East;BCA011306;Prospect
+P151;CL18;;PVEP_POC;;Ha Ma Xam South;BCA011306;Prospect
+P152;CL18;;PVEP_POC;;Doi Xam;BCA011306;Prospect
+P153;CL18;;PVEP_POC;;Doi Xam West;BCA011306;Prospect
+P154;CL18;;PVEP_POC;;Doi Den;BCA011306;Prospect
+P155;CL18;;PVEP_POC;;Doi Vang;BCA011306;Prospect
+P156;CL18;;PVEP_POC;;Doi Trang;BCA011306;Prospect
+P157;CL18;;PVEP_POC;;Doi Do;BCA011306;Prospect
+P158;CL18;;;;16-2 F;BCA011306;Prospect
+P159;CL18;;;;16-2 Lead A;BCA011306;Lead
+P16;CL1;The Ho Xam Prospect is located in the southwestern portion of the 01/97 Block.;PVEP_POC;Alpha;Ho Xam;BC_LAMSON01_02_068;Prospect
+P160;CL18;;;;16-2 Lead B;BCA011306;Lead
+P161;CL18;;;;16-2 Lead C;BCA011306;Lead
+P162;CL19;Closure can be recognised at three different levels over the Cam Prospect, at Top Basement and at the top of the two Lower Oligocene sequences.;EOE;;Cam;"BC_E.Oil17_103; BC_E.Oil17_030.1";Prospect
+P163;CL19;Chom Chom Located in the south central part of the block, Chom Chom is the southern-most culmination of the Rong-Bach Ho ridge.;EOE;;Chom Chom;"BC_E.Oil17_054.1; BCA010835";Prospect
+P164;CL19;The Du Du prospect is located 150 km from the port of Vung Tau in the Mekong Delta.  The nearest facilities are at the Bach Ho Field, 85 km to the north-east.;EOE;;Du Du;BC_E.Oil17_115;Prospect
+P165;CL19;Nho prospect is a two-way faultbounded anticline with closure present at two mapped horizons (Top basement and SH-10). It is located to the east and juxtaposed with Chom Chom high.;EOE;;Nho;BCA010817;Prospect
+P166;CL19;"The Vai Prospect Located at the eastern edge of the block, Vai is a long-recognised structure and is the only firm prospect recognised at present. Vai Thieu is a complex, fault-bounded structural prospect; the principal zone of interest lies within preTertiary basement.";EOE;Vai;Vai Thieu;"BC_E.Oil17_054.1; BCA010835";Prospect
+P167;CL19;Sau Rieng Lead is an amplitude anomaly at the top of Sequence D (Orange seismic horizon) situated in the northern centre of the block, straddling the block boundary.;;Mang Cau;Sau Rieng;BC_E.Oil17_054.1;Lead
+P168;CL19;;;;17-A;BCA010835;
+P169;CL24;The Tom Hum Xanh (THX - Rock Lobster) Prospect is located in Block 31, approximately 37 km offshore from the southern Vietnam coast. It is 200 km southwest of Vung Tau City and is in a water depth of 18.5 m.;PVEP;;Tom Hum Xanh;BC_Salamander31_001;Prospect
+P17;CL1;Ho Xam South is located to the South of Ho Xam, along the basement horstal ridge of Ho Xam - Su Tu Nau.;LAM_SON_JOC;Alpha South;Ho Xam South;BC_LAMSON01_02_068;Prospect
+P170;;Cấu tạo A nằm ở khu vực phía Tây của Lô 31 nằm vắt qua ranh giới giữa lô 31 và lô ĐBSCL-01.;PVEP;;31-A;BC_Salamander31_004;Structure
+P171;;Cấu tạo B nằm phía Tây Bắc lô 31 gồm 2 khối B1 và B2, khối B1 nằm ở ranh giới lô 31 và lô ĐBSCL-01.;PVEP;;31-B;BC_Salamander31_004;Structure
+P172;;Cấu tạo C nằm ở phía Đông Bắc lô 31, cấu tạo C có dạng cấu tạo khép kín bởi đứt gãy.;PVEP;;31-C;BC_Salamander31_004;Structure
+P173;;Cấu tạo D nằm ở phía Đông Nam lô 31, cấu tạo D có dạng cấu trúc khép kín bởi đứt gãy.;PVEP;;31-D;BC_Salamander31_004;Structure
+P174;;Cấu tạo E nằm ở phía Đông lô 31, cấu tạo E có dạng cấu tạo khép kín bởi đứt gãy.;PVEP;;31-E;BC_Salamander31_004;Structure
+P175;;Cấu tạo F nằm ở phía Đông Bắc lô 31, cấu tạo F có dạng cấu tạo khép kín bởi đứt gãy.;PVEP;;31-F;BC_Salamander31_004;Structure
+P176;;;PVN;;Hau Giang;;Structure
+P177;;;PVN;;Long Xuyen;;Structure
+P178;CL29;;SALAMANDER;;Cuu Long;BCA011201;Structure
+P179;CL29;;SALAMANDER;Tiger Prawn;Tom Su Lua;BCA011201;Structure
+P18;CL1;Ho Den prospect is located in the 01/97 Block and NE of Ho Xam.;LAM_SON_JOC;Beta;Ho Den;BC_LAMSON01_02_068;Prospect
+P180;;;;;Doi;BC_E.Oil17_118;
+P181;;;;;Doi North;BC_E.Oil17_118;
+P182;;;;;Ruong;BC_E.Oil17_118;
+P183;;;;;Song;BC_E.Oil17_118;
+P184;SH29;;;Shark;Ca map;BC_BHP120-121_001;Prospect
+P185;SH30;;;Crocodile;Ca Sau;BC_BHP120-121_001;Prospect
+P186;SH29;;;Swordfish;Ca Kiem;BC_BHP120-121_001;Prospect
+P187;SH15;Carbonate Play Prospect.;;Sealion;Su Tu Bien;"BC_BP_DN_040; BC_BP_DN_027";Gas Prospect
+P188;SH26;;;Flying Fish;Ca Chuon;"BC_BP_DN_040; BCA000397";Oil Prospect
+P189;SH15;;;Hemibagrus;Ca Lang;"BC_BP_DN_040; BCA000397";Oil Prospect
+P19;CL1;Ho Den South is an eastward extension of Ho Xam Basement Structure and located to the South of the Ho Den Prospect.;LAM_SON_JOC;;Ho Den South;BC_LAMSON01_02_068;Prospect
+P190;SH15;;;Sole;Ca Luoi Trau;"BC_BP_DN_040; BCA000397";Prospect
+P191;SH15;;;Seahorse;Ca Ngua;"BC_BP_DN_040; BCA000397";Prospect
+P192;SH15;;;Sawfish;Ca Dao;"BC_BP_DN_040; BCA000397";Prospect
+P193;SH27;"Carbonate Play Prospect; Gross Rock volume: Most likely 14,700 millions cubic metres.";;Grey Seal;Cho Bien Xam;"BC_BP119_013; BCA000397";Prospect
+P194;SH15;;;Seaotter;Rai Ca Bien;"BC_BP_DN_040; BCA000397";Prospect
+P195;SH26;Gross Rock volume: Most likely 10,100 millions cubic metres.;;Blue Whale;Ca Voi Xanh;BCA000239;Gas Field
+P196;SH26;;;Octopus;Bach Tuoc;BC_BP118_021;
+P197;SH27;Gross Rock volume: Most likely 3900 millions cubic metres.;;Dolphin;Ca Heo;BC_BP119_004;Gas, Oil Prospect
+P198;SH27;;;;Cho Bien Xam North;BC_BP119_013;Prospect
+P199;SH27;These are two relatively poorly defined reefs (A and B) south of the main Cho Bien Xam Prospect.;;;Cho Bien Xam South;BC_BP119_013;Prospect
+P2;CL39;Amethyst is a northeast-southwest trending anticlinal drape over a basement horst located in Block 01 whithin the Mekong Basin. This location is approximately 173 km east of Vung Tau and 24 km southeast of Ruby-1.;PETRONAS;01-Q;Amethyst;BC_PNAS01_02_395;Prospect
+P20;CL1;The Ho Vang prospect is located to the north of the Ho Den prospect.;LAM_SON_JOC;Omega;Ho Vang;BC_LAMSON01_02_068;Prospect
+P200;SH27;;;;Ca Ngu Vi Dai;BC_EXXON117-119_015;Prospect
+P201;SH26;;;;118-B;BC_EXXON117-119_015;Lead
+P202;SH32;;IDEMITSU;A;Cay Tre;"BC_IDE102_002; BC_IDE102_039";Lead
+P203;SH32;;IDEMITSU;B1;Cay Quat;"BC_IDE102_002; BC_IDE102_039";Prospect
+P204;SH32;;IDEMITSU;B2;Hoa Mai;"BC_IDE102_002; BC_IDE102_039";Prospect
+P205;SH32;;IDEMITSU;C;Cay Dua;"BC_IDE102_002; BC_IDE102_039";Prospect
+P206;SH32;;IDEMITSU;C2;C2;"BC_IDE102_002; BC_IDE102_039";Lead
+P207;SH31;;IDEMITSU;B4;Hoa Dao;"BC_IDE102_042; BC_IDE102_039";Prospect
+P208;SH31;;IDEMITSU;B3;Hoa Phuong;"BC_IDE102_042; BC_IDE102_039";Prospect
+P209;SH31;;IDEMITSU;D;Cay Lua;"BC_IDE102_042; BC_IDE102_039";Prospect
+P21;CL1;;LAM_SON_JOC;;Quartz;BC_LAMSON01_02_068;Lead
+P210;SH31;;IDEMITSU;;102-E;"BC_IDE102_042; BC_IDE102_039";Lead
+P211;SH31;;IDEMITSU;;102-AN1;"BC_IDE102_042; BC_IDE102_039";Lead
+P212;SH31;;IDEMITSU;;102-AN2;"BC_IDE102_042; BC_IDE102_039";Lead
+P213;SH31;;IDEMITSU;;102-SW;"BC_IDE102_042; BC_IDE102_039";Lead
+P214;SH31;;IDEMITSU;;102-V;"BC_IDE102_042; BC_IDE102_039";Prospect
+P215;SH31;;IDEMITSU;;102-W;"BC_IDE102_042; BC_IDE102_039";Prospect
+P216;SH31;;IDEMITSU;;102-X;"BC_IDE102_042; BC_IDE102_039";Prospect
+P217;SH33;;IDEMITSU;;115-A;BC_IPL115_002;Prospect
+P218;SH33;;IDEMITSU;;115-Lead2;BC_IPL115_002;Lead
+P219;SH33;;IDEMITSU;;115-Lead3;BC_IPL115_002;Lead
+P22;CL1;;LAM_SON_JOC;Sigma;Ho Bac;BC_LAMSON01_02_068;Lead
+P220;SH12;The Hong Hac Prospect is located on the western flank of the Bac Bo Basin, offshore central Vietnam. It is contaiiled within Block 114 in an area which was offered to the adjacent Block 115 consortium in late 1993 as an alternative study area in order to evaluate the prospect.;IPC;;Hong Hac;"BCA010768; BCA010572";Prospect
+P221;SH30;;NEON;;Rua Bien;BCA011529;Prospect
+P222;SH30;;;;Ca Lang (120);BCA011529;Prospect
+P223;SH4;;OMV;;Qua Nhan;BC_OMV_013;Prospect
+P224;SH4;;OMV;Lychee;Qua Vai;BC_OMV_013;Prospect
+P225;SH4;;OMV;Pineapple;Qua Dua;BC_OMV_013;Prospect
+P226;CL36;;;;Kinh Ngu Vang;;
+P227;CL5;;;;Bach Ho;;
+P228;CL8;;;;Doi Moi;;
+P229;CL18;;;;Bao Vang-16.2;;
+P23;CL1;;LAM_SON_JOC;;Beryl;BC_LAMSON01_02_008;Prospect
+P230;SH3;;PIDC;;Bach Long;;
+P231;SH3;;PVEP_BACH_DANG;;Dia Long;;
+P232;SH1;;PCOSB;;Do Son;;
+P233;SH3;;TOTAL_VIETNAM;;G;;
+P234;SH3;;TOTAL_VIETNAM;;H;;
+P235;SH1;;PCOSB;;Ha Long;;
+P236;SH3;;PVEP_BACH_DANG;;Hac Long;;
+P237;SH6;;PCOSB;;Ham Rong;;
+P238;SH1;;PVEP;;Ham Rong Dong;;
+P239;SH1;;PVEP;;Ham Rong Nam;;
+P24;CL40;Opal is a multi-culmination anticlinal drape over an ENE - WSW plunging nose of the Con Son Swell located in Block 02 within the Mekong Basin. This location is approximately 173 km east of Vung Tau and 35 km south-southeast of Ruby-I.;PETRONAS;02-M;Opal;BC_PNAS01_02_361;Prospect
+P240;SH3;;PVSC;;Hoang Long;;
+P241;SH3;;PVEP_SONG_HONG;;Ky Lan;;
+P242;SH3;;TOTAL_VIETNAM;;Pa;;
+P243;SH3;;PVEP_POC;;Pha Lai;;
+P244;SH1;;PVEP;;Sapa;;
+P245;CL9;;CUU_LONG_JOC;;Su Tu Nau North;;
+P246;CL9;;CUU_LONG_JOC;;Su Tu Vang North East;;
+P247;SH31;;PETRONAS;;Thai Binh;;
+P248;SH1;;PCOSB;;Yen Tu;;
+P249;CL9;;;;Su Tu Nau South;;
+P25;CL40;The Garnet is located in Block 01. This location is approximately 165 km. East of Vung Tau and 20 km south-southeast  of Ruby-I.;;02-GG;Garnet;BC_PNAS01_02_400;Prospect
+P250;MTC9;;;;Block PM3 CCA;;
+P251;MTC6;;;;Cai Nuoc;;
+P252;NCS11;;;;Chim Sao;;
+P253;SH20;;;;D14;;
+P254;SH22;;;;D14;;
+P255;NCS3;;;;Dai Hung;;
+P256;SH20;;;;Dong Quan D;;
+P257;NCS11;;;;Dua;;
+P258;NCS4;;;;Hai Thach;;
+P259;NCS38;;;;Lan Do;;
+P26;CL40;"The Jade/""C"" Prospect is an anticlinal feature draped over a basement high in the northwestern area of Block 02.";PETRONAS;02-C;Jade;BC_PNAS01_02_615;Prospect
+P260;NCS38;;;;Lan Tay;;
+P261;NCS4;;;;Moc Tinh;;
+P262;NCS9;;;;Rong Doi - Rong Doi Tay;;
+P263;MTC6;;;;Song Doc;;
+P264;NCS27;;;;Thien Ung;;
+P265;SH19;;;;Tien Hai C;;
+P27;CL40;"The Sapphire /""D"" Prospect is a fault bounded structure located in the southeastern area of Block 02.";;02-D;Sapphire;BC_PNAS01_02_641;Prospect
+P28;CL2;Four-way dip closed culmination. The Dong Do Prospect IS situated on Thang Long High Trend, Northeast-Southwesttrending, basement involved anticline trend along the Southeastern margin of the Cuu Long Basin, adjacent to the Con Son Swell.;LAM_SON_JOC;;Dong Do;"BC_LAMSON01_02_018; BC_LAMSON01_02_082";Field
+P29;CL2;;LAM_SON_JOC;;Thang Long C;"BC_LAMSON01_02_018; BC_LAMSON01_02_063";Prospect
+P3;CL39;Amethyst NE is a northeast-southwest trending anticlinal drape over a basement horst located in Block 01 whithin the Mekong Basin. This location is approximately 180 km east of Vung Tau and 28 km southeast of Ruby-1.;PETRONAS;01-QNE;Amethyst NE;BC_PNAS01_02_399;Prospect
+P30;CL2;;LAM_SON_JOC;Thang Long A;Thang Long;BC_LAMSON01_02_063;Field
+P31;CL2;;LAM_SON_JOC;;Thang Long B;BC_LAMSON01_02_063;Prospect
+P32;CL2;Thang Long D located in the Northwestern part of Block 02/10, close to boundary between block 01/10 & 02/10.;LAM_SON_JOC;Ho Tay;Thang Long D;BC_LAMSON01_02_063;Prospect
+P33;CL41;;VSP;;Rong;BC_VSP_072;Field
+P34;CL41;;VSP;;Bac Bach Ho;BC_VSP_072;Field
+P35;CL41;;;;Tay-Bac Bach Ho;BC_VSP_072;Field
+P36;CL41;;;;Nam Bach Ho;BC_VSP_072;Field
+P37;CL5;The Tho Trang prospect is located in North-West block 09-1.;VSP;;Tho Trang;BC_VSP_072;Field
+P38;CL5;The Bao Trang prospect is located in block 09-1, Northeast of Rong field.;VSP;;Bao Trang;BC_VSP_072;Prospect
+P39;CL5;The Gau Trang prospect I located in block 09-1, Southeast of Bach Ho Field.;VSP;;Gau Trang;BC_VSP_072;Field
+P4;CL2;The Amethyst SW prospect is a northeast-southwest trending anticlinal drape over a basement horst located in Block 02 whithin the Mekong Basin. This location is approximately 165 km east of Vung Tau and some 30 km southeast of the nearest oilfield, Ruby Oil Field.;PETRONAS;02-QSW;Amethyst SW;BC_PNAS01_02_398;Prospect
+P40;CL5;The Meo Trang is located in block 09-1. This location is approximately 120 km. Southeast of Vung Tau, 8 km Southwestern of BK-14 well and 6km Northwest of RC-3.;VSP;;Meo Trang;BC_VSP_072;Prospect
+P41;CL5;;VSP;;DB;;
+P42;CL5;;VSP;;MC;;
+P43;CL5;;VSP;Tien Ung;TU;;
+P44;CL6;In the Otter prospect, have assumed that the Oligocene sands are thicker and more prolific. Volumetric calculations for the accumulation are based on estimated area extent, net thickness, reservoir rock properties (porosity, hydro-carbon saturation), and fluid properties (gravity, formation volume factor).;CHEVRON;;Otter;BC_HLONG16.1_334;Prospect
+P45;CL6;The largest feature on Block 9-2 lies in the deeper northwestern part of the block almost directly between the producing Rang Dong and Bach Ho Fields.;HOAN_VU_JOC;;09-2-A;BC_HoanVu09_2_004;Lead
+P46;CL6;;HOAN_VU_JOC;;09-2-B;BC_HoanVu09_2_004;Lead
+P47;CL6;;HOAN_VU_JOC;;09-2-C;BC_HoanVu09_2_004;Lead
+P48;CL6;;HOAN_VU_JOC;;09-2-D;BC_HoanVu09_2_004;Lead
+P49;CL6;;HOAN_VU_JOC;;09-2-E;BC_HoanVu09_2_004;Lead
+P5;CL39;Dip/fault closure. The Azurite structure is a NE-SW trending basement hight. The cres of Azurite granite basement is located in the southwestern area occurring at the depth of 2475m-ss.;PETRONAS;;Azurite;BC_PNAS01_02_232;Prospect
+P50;CL6;Prospect Ca Ong Doi has a closure area of 16.7 sq.km, defined on basement and is located along the southeastern part of basin margin near Con Son swell.;HOAN_VU_JOC;09-2-C;Ca Ong Doi;"BC_HoanVu09_2_027; BC_HoanVu09_2_041";Prospect
+P51;CL6;Prospect D is a basement fault block structure trending northeast-southwest. The prospect is bounded to the southeast by an East-west trending normal fault, steeping along the northwest and southeast sides and getting narrower with gentle slope in northeast direction.;HOAN_VU_JOC;09-2-D;Ca Ngu Vang;BC_HoanVu09_2_118;Field
+P52;CL36;KNT is located in the northern corner of Block 9-2/09, which is adjacent to the South of the Duong Dong prospect.;HONG_LONG_POC;Ca Ngu Xanh;Kinh Ngu Trang;BCA011147;Prospect
+P53;CL36;The Kinh Ngu Trang Nam area is located in the South of KNT prospect and northern corner of block 09-2/09.;PVEP_POC;;Kinh Ngu Trang Nam;BCA012163;Prospect
+P54;CL36;;HOAN_VU_JOC;;Song Ngu;;Prospect
+P55;CL7;;PVEP_POC;;Hai Cau;;Prospect
+P56;CL8;In the Fox prospect, have assumed that the Oligocene sands are thicker and more prolific, being on the flank of the structure rather than on the crest of the structure as in White Tiger.;CHEVRON;;Fox;BC_HLONG16.1_334/ BC_HLONG16.1_285;Prospect
+P57;CL8;;VRJ;;Soi;BC_VRJ09_3_041/ BC_HLONG16.1_285;Prospect
+P58;CL8;;VRJ;;Soi C;BC_VRJ09_3_062;Prospect
+P59;CL8;;VRJ;Soi T East;Soi T -East;BC_VRJ09_3_062;Prospect
+P6;CL39;Diamond is located 163 km east of Vung Tau and 19 km north of Ruby-1 in Block 01 within the Mekong Basin.;PETRONAS;01-A;Diamond;BC_PNAS01_02_866;Field
+P60;CL8;;VRJ;Soi T West;Soi T -West;BC_VRJ09_3_062;Prospect
+P61;CL8;;VRJ;;Soi B;BC_VRJ09_3_062;Prospect
+P62;CL8;;VRJ;;Soi TB1;BC_VRJ09_3_062;Prospect
+P63;CL8;;VRJ;;Soi TB2;BC_VRJ09_3_062;Prospect
+P64;CL8;;VRJ;;Doi Moi Bac;BCA002352;Lead
+P65;CL42;The Nam Rong Doi Moi area, which is the western part of Block 09-3 on the Vietnam shelf, partly in the southern part of Block 09-1 and partly in the eastern part of Block 17 (13.5 sq.km). The Nam Rong-Doi Moi area is located ISO km southeast of the seaside town and port of Vung Tau.;VRJ;Doi Moi;Nam Rong - Doi Moi;"BC_VRJ09_3_035; BC_VSP_072";Field
+P66;CL42;;VRJ;;Doi Moi Dong;BC_VRJ09_3_035;Lead
+P67;CL42;The interpretation Study before drilling the DM-1X well found the Doi Moi Nam Lead on the top basement surface, which is an east-west elongated basement high bounded by normal faults and situated 4km south of the Doi Moi Structure.;VRJ;;Doi Moi Nam;BC_VRJ09_3_035;Lead
+P68;CL42;;VRJ;;Doi Moi DN;BC_VRJ09_3_035;Lead
+P69;CL42;Rong field area;VSP;;Dong-Bac Rong;BC_VSP_072;Field
+P7;CL39;The Emerald Prospect is an anticlinal drape over a northeast - southwest trending igneous basement high located in the southwestern area of Block 01. This location is approximately 162 km. East of Vung Tau and 9 km. South of Ruby-I.;PETRONAS;01-P;Emerald;BC_PNAS01_02_363;Prospect
+P70;CL42;;VSP;;Yen Ngua - Rong;BC_VSP_072;Field
+P71;CL42;Rong field area;VSP;;Tay-Bac Rong;BC_VSP_072;Field
+P72;CL33;"Cụm cấu tạo Cá Tầm nằm phía bắc lô 09-3/12; cụm cấu tạo Cá Tầm được chia làm 5 khu vực: Trung tâm, Tây, Tây Bắc, Đông Bắc, Đông Nam.";VSP;;Ca Tam;BC_VSP_096;Prospect
+P73;CL43;;DEMINEX;Tra Tan;15-A;BCA000297;Prospect
+P74;CL43;;DEMINEX;Song Ba;15-B;BCA000297;Prospect
+P75;CL43;;DEMINEX;Cuu Long, Rang dong;15-C;BCA000297;Prospect
+P76;CL43;;DEMINEX;Ben Hai;15-D;BCA000297;Prospect
+P77;CL43;;DEMINEX;La Nga;15-E;BCA000297;Prospect
+P78;CL43;;DEMINEX;;15-F;BCA000297;Prospect
+P79;CL43;;DEMINEX;Dong Nai;15-G;BCA000297;Prospect
+P8;CL39;Four way dip closurce for the Lower Miocene sanstone reservoir and faulted dependent clousre for the Oligocene sanstone reservoir. Moonstone prospect is located about 170 km east of Vungtau, 10 km to southeast of oil-discovery Diamond-2X, 10 km to northeast of Ruby-3X and 7 km to northwest of Topaz North-2X.;PETRONAS;;Moonstone;BC_PNAS01_02_479;Prospect
+P80;CL9;;OXY;;15-I;BC_CuuLong15.1_021/ BCA011861;
+P81;CL9;;GEOPETROL;;15-1-A;BC_CuuLong15.1_018;Prospect
+P82;CL9;;GEOPETROL;15-G;15-1-B;BC_CuuLong15.1_018;Prospect
+P83;CL9;;GEOPETROL;;15-1-B North;BC_CuuLong15.1_018;Lead
+P84;CL9;;GEOPETROL;;15-1-C;BC_CuuLong15.1_018;Lead
+P85;CL9;;GEOPETROL;;15-1-D;BC_CuuLong15.1_018;Lead
+P86;CL9;The Su Tu Chua (Lion King) prospect is located at the southeastern part of block 15-1 and has a primary basement reservoir target and secondary Oligocene sandstone target. It is located in the saddle area between two basement structures of Su Tu Den and Su Tu Vang discoveries.;CUU_LONG_JOC;Lion King;Su Tu Chua;BC_CuuLong15.1_059;Prospect
+P87;CL9;The Sutu Den prospect is located at the northeastern part of block 15-1. The prospect has a primary fractured basement reservoir target and secondary Oligocene-Miocene sandstone targets.;CUU_LONG_JOC;;Su Tu Den;BC_CuuLong15.1_036;Field
+P88;CL9;The Su Tu Nau (SN, Brown Lion) prospect is located at the northeastern part of block 15-1. Su Tu Nau prospect has the primary basement reservoir target and secondary clastic reservoir target.;CUU_LONG_JOC;Brown Lion;Su Tu Nau;BC_CuuLong15.1_433;Field
+P89;CL9;The Su Tu Trang (White Lion) prospect is located at the SE part of block 15-1 and has a primary basement reservoir target and secondary clastic target and which is located about 26km away to the south of Su Tu Den.;CUU_LONG_JOC;White Lion;Su Tu Trang;"BC_CuuLong15.1_073; BC_CUULONG15.1_494";Field
+P9;CL39;Pearl is loacated approximately 160 km east of Vungtau and 5 km southeast of Ruby-1.;PETRONAS;01-F;Pearl;BC_PNAS01_02_389;Field
+P90;CL9;The Sutu Vang (Golden Lion) prospect is located at the northeastern part of block 15-1.;CUU_LONG_JOC;;Su Tu Vang;BC_CuuLong15.1_053;Field
+P91;CL10;Lac Da Nau (LDN) Cluster locates in the southeastern part of the Block 15-1/05 and in the north-eastern lengthened part of Hai Su Nau Field.;PHU_QUY_JOC;;Lac Da Nau;BC_PhuQuy.POC15.1_046;Prospect
+P92;CL10;;PHU_QUY_JOC;;Lac Da Nau_North;BC_PHUQUY.POC15.1/05_046;Prospect
+P93;CL10;;PHU_QUY_JOC;;Lac Da Nau_South;BC_PHUQUY.POC15.1/05_046;Prospect
+P94;CL10;;PHU_QUY_JOC;;Lac Da Nau_Center +Northeast;BC_PHUQUY.POC15.1/05_046;Prospect
+P95;CL10;Lac Da Vang (LDV) Cluster locates in the southeastern part of the Block 15-1/05 and is a geometrical southwestern tail of Su Tu Den-Su Tu Vang trend.;PHU_QUY_JOC;;Lac Da Vang;BC_PHUQUY.POC15.1/05_037;Prospect
+P96;;;PHU_QUY_JOC;;Lac Da Xam;BC_PHUQUY.POC15.1/05_044;Prospect
+P97;CL10;The northwestern of the Block 15-1/05.;PHU_QUY_JOC;;La Da Den;BC_PHUQUY.POC15.1/05_044;Prospect
+P98;CL10;The northwestern of the Block 15-1/05.;PHU_QUY_JOC;;Lac Da Trang;BC_PHUQUY.POC15.1/05_044;Prospect
+P99;CL10;;PHU_QUY_JOC;;Gau Den-North;BC_PHUQUY.POC15.1/05_002;Prospect
